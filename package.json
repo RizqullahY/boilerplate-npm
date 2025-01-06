@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp" ],
 	"author": "Rafly Rizqullah Yusuf <rizqullahyusufrafly@gmail.com>",
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
